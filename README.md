@@ -1,1 +1,1 @@
-# Area-do-tri-ngulo-
+# Area-do-triangulo-
